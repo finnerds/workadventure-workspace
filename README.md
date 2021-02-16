@@ -1,6 +1,6 @@
 # WorkAdventure - Workspace Map
 
-This WorkAdventure](https://workadventu.re) map is based on the [small office map](https://github.com/gparant/tcm-client) from gparant. You can find the actual map in `TCM/small-office`on the target repository.
+This [WorkAdventure](https://workadventu.re) map is based on the [small office map](https://github.com/gparant/tcm-client) from gparant. You can find the actual map in `TCM/small-office`on the target repository.
 
 ### Working on the Map
 
